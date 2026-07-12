@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://xeno-canto.org/explore/api
 common:
+  - type: VulnerabilityDisclosure
+    url: security/xeno-canto-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/xeno-canto-domain-security.yml
   - type: Website
     url: https://xeno-canto.org/explore/api
   - type: PublicAPIsListing
