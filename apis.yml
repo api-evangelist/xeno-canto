@@ -39,7 +39,6 @@ apis:
   - name: xeno-canto
     description: "Bird recordings"
     humanURL: https://xeno-canto.org/explore/api
-    baseURL: https://xeno-canto.org/explore/api
     tags:
       - Animals
     properties:
